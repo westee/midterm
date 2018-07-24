@@ -1,0 +1,7 @@
+@media print{
+  body{
+    background-color:grey;
+    font-family:times,serif;
+    font-size:100px;
+  }
+}

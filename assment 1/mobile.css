@@ -1,0 +1,9 @@
+/* 宽度小于五百像素时更改背景颜色 */
+/* @media screen and (max-width: 500px){
+  body{
+    background-color: yellowgreen;
+  }
+} */
+body{
+  background-color: yellowgreen;
+}
